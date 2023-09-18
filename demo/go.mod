@@ -1,1 +1,1 @@
-module demo
+module github.com/coolapker/awesomeProject/demo
