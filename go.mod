@@ -1,3 +1,3 @@
-module github.com/coolapker/awesomeProject
+module main
 
-go 1.21
+go 1.21.1
